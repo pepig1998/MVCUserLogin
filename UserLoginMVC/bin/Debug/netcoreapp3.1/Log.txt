@@ -1,0 +1,44 @@
+02/03/2020 08:53:42;;ANONYMOUS;Successful Login02/03/2020 08:55:29;;ANONYMOUS;Successful Login
+
+02/03/2020 08:56:03;;ANONYMOUS;Successful Login
+02/03/2020 08:57:15;;ANONYMOUS;Successful Login
+02/03/2020 09:10:52;;ANONYMOUS;Successful Login
+03/03/2020 09:13:07;Pesho;ADMIN;Successful Login
+02/03/2020 09:13:17;Pesho;ADMIN;Successful Login
+26/02/2020 09:13:33;Pesho;ADMIN;Successful Login
+29/02/2020 09:17:29;Pesho;ADMIN;Successful Login
+28/02/2020 09:21:37;Pesho;ADMIN;Successful Login
+
+01/03/2020 09:37:16;Pesho;ADMIN;Successful Login
+01/03/2020 14:33:55;Pesho;ADMIN;Successful Login
+02/03/2020 14:35:59;Pesho;ADMIN;Successful Login
+12/05/2020 00:07:30;pepipepi;ADMIN;Successful Login
+12/05/2020 00:13:03;pepipepi;ADMIN;Successful Login
+12/05/2020 01:16:59;pepipepi;ADMIN;Successful Login
+12/05/2020 01:23:50;pepipepi;ADMIN;Successful Login
+12/05/2020 01:24:12;pepipepi;ADMIN;Change role of pepipepi!
+12/05/2020 01:24:48;pepipepi;ADMIN;Successful Login
+12/05/2020 01:26:09;pepipepi;ADMIN;Successful Login
+12/05/2020 01:27:37;pepipepi;ADMIN;Successful Login
+12/05/2020 01:27:43;pepipepi;ADMIN;Change role of pepipepi!
+12/05/2020 01:33:31;pepipepi;ADMIN;Successful Login
+12/05/2020 01:33:36;pepipepi;ADMIN;Change role of pepipepi!
+12/05/2020 01:33:56;pepipepi;ADMIN;Change role of pepipepi!
+12/05/2020 02:00:30;achoacho;STUDENT;Successful Login
+12/05/2020 02:00:47;pepipepi;ADMIN;Successful Login
+12/05/2020 02:04:03;pepipepi;ADMIN;Successful Login
+12/05/2020 02:04:34;ivanivan;ADMIN;Successful Login
+12/05/2020 02:04:50;achoacho;STUDENT;Successful Login
+12/05/2020 02:20:51;pepipepi;ADMIN;Successful Login
+12/05/2020 02:22:25;pepipepi;ADMIN;Successful Login
+12/05/2020 02:22:51;pepipepi;ADMIN;Change activity of pepipepi!
+12/05/2020 02:23:24;pepipepi;ADMIN;Change role of pepipepi!
+23/05/2020 17:32:32;pepipepi;ADMIN;Successful Login
+23/05/2020 17:33:36;pepipepi;ADMIN;Change role of pepipepi!
+23/05/2020 17:34:06;pepipepi;ADMIN;Change activity of pepipepi!
+23/05/2020 17:42:15;pepipepi;ADMIN;Successful Login
+23/05/2020 17:43:11;pepipepi;ADMIN;Change activity of pepipepi!
+23/05/2020 17:45:34;pepipepi;ADMIN;Successful Login
+23/05/2020 17:45:46;pepipepi;ADMIN;Change role of pepipepi!
+23/05/2020 17:46:18;pepipepi;ADMIN;Successful Login
+23/05/2020 17:54:58;pepipepi;ADMIN;Successful Login
