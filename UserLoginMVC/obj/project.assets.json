@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\UserLoginMVC\\UserLoginMVC\\UserLoginMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Peter\\Documents\\MVCUserLogin\\UserLoginMVC\\UserLoginMVC.csproj",
       "projectName": "UserLoginMVC",
-      "projectPath": "C:\\UserLoginMVC\\UserLoginMVC\\UserLoginMVC.csproj",
+      "projectPath": "C:\\Users\\Peter\\Documents\\MVCUserLogin\\UserLoginMVC\\UserLoginMVC.csproj",
       "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
-      "outputPath": "C:\\UserLoginMVC\\UserLoginMVC\\obj\\",
+      "outputPath": "C:\\Users\\Peter\\Documents\\MVCUserLogin\\UserLoginMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

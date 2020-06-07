@@ -9,6 +9,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using System.Windows.Threading;
 using UserLoginMVC.Controller;
 
 namespace UserLoginMVC.View
@@ -24,6 +25,42 @@ namespace UserLoginMVC.View
         public MainWindow()
         {
              InitializeComponent();
+             hamdleThis();
+            DispatcherTimer timer = new DispatcherTimer(TimeSpan.FromSeconds(1), DispatcherPriority.Normal,
+
+                delegate
+                {
+                    int newValue = 0;
+                    newValue = Counter + 1;
+                    SetValue(CounterProperty, newValue);
+                }, Dispatcher);
+        }
+
+
+
+        public int Counter
+        {
+            get { return (int)this.GetValue(CounterProperty); }
+            set { this.SetValue(CounterProperty, value); }
+        }
+        public static readonly DependencyProperty CounterProperty = 
+            DependencyProperty.Register("Counter", typeof(int), typeof(MainWindow), new PropertyMetadata(0));
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    private void hamdleThis()
+        {
             numberRole.Visibility = System.Windows.Visibility.Collapsed;
             okRole.Visibility = System.Windows.Visibility.Collapsed;
             howTo.Visibility = System.Windows.Visibility.Collapsed;
@@ -34,7 +71,6 @@ namespace UserLoginMVC.View
             inter.passInstanceOfThisClass(this);
             AppWindow = this;
             ulv.Show();
-            
             this.Hide();
         }
 

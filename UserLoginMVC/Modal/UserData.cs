@@ -18,7 +18,6 @@ namespace UserLoginMVC.UserLoginModal
                     userArr.Add(new User("pepipepi", "pepipepipepi", "111111111", UserRoles.ADMIN, DateTime.Now, DateTime.MaxValue));
                     userArr.Add(new User("achoacho", "achoachoacho", "222222222", UserRoles.STUDENT, DateTime.Now, DateTime.MaxValue));
                     userArr.Add(new User("ivanivan", "ivanivanivan", "333333333", UserRoles.ADMIN, DateTime.Now, DateTime.MaxValue));
-       
                 }
                 return userArr;
             }

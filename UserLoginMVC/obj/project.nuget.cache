@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ENpQz5mGGxdL4n2Imcg831hIPpArkNQfIFHG0Cq5IX3uZ0nBNXiPmC9itS0WKm0mAJfOLSVsmEM6aEq4D0dXqQ==",
+  "dgSpecHash": "ouDc8j8qry3dmdqGg5g3MjUQQIxXpVxpEujf5UgLSbRhR9oMbOIfOj0ctrKQ2CVweEgST80WCb4K2V4rZsL/0Q==",
   "success": true,
-  "projectFilePath": "C:\\UserLoginMVC\\UserLoginMVC\\UserLoginMVC.csproj",
+  "projectFilePath": "C:\\Users\\Peter\\Documents\\MVCUserLogin\\UserLoginMVC\\UserLoginMVC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,16 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using UserLoginMVC.Controller;
 
 namespace UserLoginMVC.UserLoginModal
 {
     class User
     {
 
-        public string Username
-        { get; set; }
 
-        public string Password
+        public string Username
+          { get; set; }
+         public string Password
         { get; set; }
         public string FacNumber
         { get; set; }
@@ -20,6 +21,7 @@ namespace UserLoginMVC.UserLoginModal
         { get; set; }
         public DateTime ActiveTime
         { get; set; }
+
 
         public User(string name, string pass, string facNum, UserRoles r, DateTime dt, DateTime active)
         {
